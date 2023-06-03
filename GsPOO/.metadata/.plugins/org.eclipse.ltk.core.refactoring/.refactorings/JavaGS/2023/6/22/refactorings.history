@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;forms_rt.jar&apos;&#x0D;&#x0A;- Original project: &apos;JavaGS&apos;&#x0D;&#x0A;- Destination element: &apos;forms_rt.jar&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     c3p0-0.9.5.4.jar&#x0D;&#x0A;     mchange-commons-java-0.2.16.jar&#x0D;&#x0A;- Update references to refactored element" description="Move files" element1="src/br/com/gs/resources/c3p0-0.9.5.4.jar" element2="src/br/com/gs/resources/mchange-commons-java-0.2.16.jar" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685825155483" target="forms_rt.jar" units="0" version="1.0"/>
+</session>
